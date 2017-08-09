@@ -1,10 +1,9 @@
-// C search and replace program via raw input from user
+ // C search and replace program via raw input from user
 // V 1.0
 
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-
 
 int main(){
 	while(1){
